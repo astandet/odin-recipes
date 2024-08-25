@@ -1,1 +1,2 @@
 # odin-recipes
+The purpose of this project is to put the contents of initial lessons within The Odin Project to practical use and get familiarised with git commands, maintaining and modifying code within a project, as well as creating a website using some basic HTML commands.
